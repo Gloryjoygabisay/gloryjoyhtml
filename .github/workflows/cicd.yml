@@ -4,11 +4,6 @@ on:
   push:
     branches:
       - main
-      - trunk
-  pull_request:
-    branches:
-      - main
-      - trunk
 
 permissions:
   id-token: write
