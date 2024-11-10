@@ -7,3 +7,24 @@ body {
 .center-text {
     text-align: center;
 }
+
+.nav-bar {
+    display: flex; 
+    justify-content: space-around; 
+    list-style-type: none; 
+    padding: 0;
+}
+.nav-bar a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: rgb(10, 10, 75);
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background-color 0.3s;
+}
+
+.nav-bar a:hover {
+    background-color: rgb(5, 153, 245);
+}
