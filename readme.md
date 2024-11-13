@@ -20,3 +20,4 @@ A simple html playground for gloryjoy to learn and practice html with.
 3. Right-click on the `index.html` file.
 4. Select "Open with Live Server" from the context menu.
 5. Your default browser will open and display the `index.html` file. Any changes you make to the file will automatically refresh in the browser.
+!(image alt)(https://raw.githubusercontent.com/Gloryjoygabisay/gloryjoyhtml/9277672211baad5abd71704b991935ac9b7668ea/html/images/womans%20journey.jpg)
