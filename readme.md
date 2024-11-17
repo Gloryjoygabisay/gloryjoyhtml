@@ -4,8 +4,6 @@ A simple html playground for gloryjoy to learn and practice html with.
 
 [The live site](https://gloryjoygabisay.github.io/gloryjoyhtml/)
 
-[![CI/CD](https://github.com/Gloryjoygabisay/gloryjoyhtml/actions/workflows/cicd.yml/badge.svg)](https://github.com/Gloryjoygabisay/gloryjoyhtml/actions/workflows/cicd.yml)
-
 ## How to use
 
 1. Clone the repository
